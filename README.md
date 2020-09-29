@@ -10,3 +10,9 @@ As Kanye West said:
 > the present is our past.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```bash
+if (isreally){
+  return true
+}
+```
