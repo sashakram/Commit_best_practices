@@ -7,9 +7,9 @@ Ideally, each commit should be *minimal* but *complete*:
 
 Each commit message should:
 
-* **Be concise**, yet evocative. At a glance, you should be able to see what a commit does. But there should be enough detail so you can remember (and understand) what was done.
+* **Be concise, yet evocative.** At a glance, you should be able to see what a commit does. But there should be enough detail so you can remember (and understand) what was done.
 
-* **Describe the why, not the what**. Since you can always retrieve the diff associated with a commit, the message doesn’t need to say exactly what changed. Instead it should provide a high-level summary that focuses on the reasons for the change.
+* **Describe the why, not the what.** Since you can always retrieve the diff associated with a commit, the message doesn’t need to say exactly what changed. Instead it should provide a high-level summary that focuses on the reasons for the change.
 
 If you do this:
 
